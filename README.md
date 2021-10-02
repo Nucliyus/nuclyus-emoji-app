@@ -1,2 +1,2 @@
-# nuclyus-emoji-app
+# Emoji-App
 Created with CodeSandbox
